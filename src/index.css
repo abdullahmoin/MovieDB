@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.rating p{
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.rating-star{
+  color: orange;
+}
+.handle-linking{
+  cursor: pointer;
+}
+.movie-img{
+  height: 100px;
+  width: 72px;
+}
