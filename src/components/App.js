@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 // import axios from "axios";
 // import fetchMovies from "../service/fetch_movies";
-
-import MovieList from "./movie-list";
+import MovieList from "../components/movie-list"
 
 function App(props) {
   const [data, setData] = useState({});
